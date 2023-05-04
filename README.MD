@@ -92,3 +92,10 @@ Solved sudoku:
 Time taken: 11.52 seconds
 ```
 
+# License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+[YouTube video](https://youtu.be/8n7qjMnM_FQ)
